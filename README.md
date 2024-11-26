@@ -1,5 +1,5 @@
 Ссылки на репозиторий
-GitHub Репозиторий (https://github.com/Rajabalimax/config-language-parser)
+GitHub Репозиторий (https://github.com/Rajabalimax/Config_h1)
 # OS lang emulator - эмулятор для языка оболочки ОС
 ### Постановка задачи
 
@@ -50,17 +50,17 @@ pytest tests
 
 1. Созданы необхоимые по требованиям варианта файлы:
 
-![image](https://github.com/user-attachments/assets/19690800-85b4-440a-b467-ef9079387dc4)
+![image](https://github.com/Rajabalimax/Config_h1/blob/master/4.png)
 
 2. Разработана файловая структура для эмулятора:
 
-![image](https://github.com/user-attachments/assets/eedac9d5-8937-4921-bdc3-5403fc0ac667)
+![image](https://github.com/Rajabalimax/Config_h1/blob/master/3.png)
 
 3. Была разработана поддержка требуемых команд, вывод в GUI:
    
-![image](https://github.com/user-attachments/assets/e7dec2c7-bd68-40dd-8e7e-69ff84957f1e)
+![image](https://github.com/Rajabalimax/Config_h1/blob/master/1.png)
 
 4. Написаны тесты, которые успешно выполняются:
 
-![image](https://github.com/user-attachments/assets/1e70a771-9dd9-49e5-9e7e-d6e001a23354)
+![image](https://github.com/Rajabalimax/Config_h1/blob/master/2.png)
 
