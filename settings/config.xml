@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+    <hostname>C:\Users\Rajabali></hostname>
+    <fs_path>C:\Users\Rajabali\OneDrive\Рабочий стол\MIREA\Конфиг\1\1.1\OS-lang-emulator-master\settings\filesystem.zip</fs_path>
+
+    <log_file_path>C:\Users\Rajabali\OneDrive\Рабочий стол\MIREA\Конфиг\1\1.1\OS-lang-emulator-master\settings\log.csv</log_file_path>
+    <start_script_path>settings/start_script.txt</start_script_path>
+</config>
